@@ -1,6 +1,4 @@
-You could add more modules for other sites into the tarch controller.
-
-**What's included** Sublime Text plugin for posting to ｲuﾶ乃ﾚ尺, modules for archiving social media circles to disk. Only ｲuﾶ乃ﾚ尺 and ՇฝٱՇՇﻉɼ included.
+**What's included** Sublime Text plugin for posting to ｲuﾶ乃ﾚ尺. Only ｲuﾶ乃ﾚ尺 and ՇฝٱՇՇﻉɼ included in the stuff.
 
 ## Setup
 Python 2.7
