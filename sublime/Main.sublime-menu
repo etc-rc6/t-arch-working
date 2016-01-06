@@ -1,0 +1,17 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            {
+            	"caption": "TPost",
+            	"children":
+            	[
+            		{"caption": "Post", "command": "t_post"},
+                        {"caption": "Retry failed", "command": "buffer_only"},
+            		{"caption": "Delete failed", "command": "clear_buffer"}
+            	]
+        	}
+        ]
+    }
+]
